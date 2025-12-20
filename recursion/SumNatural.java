@@ -7,6 +7,9 @@ public class SumNatural {
     }
 
     public static void main(String[] args) {
-        System.out.println(sum(10));
+        System.out.println(sum(100));
+    }
+
+    public static class Power {
     }
 }
