@@ -1,4 +1,3 @@
-package recursion;
 
 public class Sine {
     static double p=1,f=1;

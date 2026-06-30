@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Arrays",
+        "Recursions"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

@@ -1,4 +1,3 @@
-package recursion;
 
 public class Ncr {
     static  int fact(int n){

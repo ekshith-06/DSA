@@ -1,4 +1,3 @@
-package recursion;
 
 public class SumNatural {
     public static int sum(int n ){
